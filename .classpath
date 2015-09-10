@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/360云盘/学习/专业/topic detection realtime/dev/repository/java/HDP-CRF(github)/lib/colt-1.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
