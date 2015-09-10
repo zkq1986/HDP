@@ -4,7 +4,8 @@ Gibbs sampler for the Hierarchical Dirichlet Processes with perplexity computing
 The program is primary added perplexity computing method based on Arnim Bleier¡¯s Java Gibbs sampler for the HDP.
 
 
-Readme content in Arnim Bleier¡¯s program£º
+
+Readme content in Arnim Bleier's program:
 
 This is a Java 1.6 implementation of a Chinese Restaurant Franchise Gibbs Sampler, a Bayesian Nonparametric [Topic model](http://www.cs.princeton.edu/~blei/topicmodeling.html) fitter.
 
